@@ -50,16 +50,17 @@ codigos_postales_shp.head()
 ![alt text](Cp_conLL.png)
 
 Este fue el mapa que obtuvimos en QGIS 
+
 ![alt text](MapaQgis.png)
 
 
 
 
 ## *Bibliografia*
-https://live.osgeo.org/es/overview/qgis_overview.html
-https://desktop.arcgis.com/es/arcmap/latest/manage-data/shapefiles/what-is-a-shapefile.htm
-https://datos.cdmx.gob.mx/dataset/inventario-de-areas-verdes-en-la-ciudad-de-mexico
-https://datos.cdmx.gob.mx/dataset/codigos-postales
+###### https://live.osgeo.org/es/overview/qgis_overview.html
+###### https://desktop.arcgis.com/es/arcmap/latest/manage-data/shapefiles/what-is-a-shapefile.htm
+###### https://datos.cdmx.gob.mx/dataset/inventario-de-areas-verdes-en-la-ciudad-de-mexico
+###### https://datos.cdmx.gob.mx/dataset/codigos-postales
 
 
 
